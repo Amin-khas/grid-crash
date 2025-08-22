@@ -22,7 +22,13 @@ body {
   gap: 10px;
 
   /* align-items: end;
-  justify-content: end; */
+  * align-items: start;
+  * align-items: center;
+  * align-items: strech;  item kesh biad!
+  justify-content: end; hemeye balayee ha dakhele containeresh
+  justify-content: space-around; or space-middle;
+  
+  */ 
 
   /* column-gap: 10px;
   row-gap: 10px; */
